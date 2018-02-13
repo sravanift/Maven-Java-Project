@@ -138,5 +138,5 @@
            </plugins>
          </build>
      </profile>
-	  </prpfiles>	  
+	  </profiles>	  
 </project>
